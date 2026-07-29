@@ -9,12 +9,9 @@
 An end-to-end data analysis project focusing on key project management metrics, performance tracking, and data visualization.
 
 ## 📊 Project Highlights / Visuals
-![Dashboard Overview](<img width="1323" height="447" alt="Screenshot 2026-07-22 153303" src="https://github.com/user-attachments/assets/ce9733fb-2fb1-4e2b-aafa-460f2c2a85d0" />
-)
-![Extra View](<img width="1318" height="440" alt="Screenshot 2026-07-22 153140" src="https://github.com/user-attachments/assets/e48a67d4-f40c-4b34-a99c-77036b121679" />
-)
-![Detailed View](<img width="914" height="355" alt="Screenshot 2026-07-22 153221" src="https://github.com/user-attachments/assets/543dd891-8573-4022-84d8-4e3340811118" />
-)
+![Dashboard Overview]()
+![Extra View]()
+![Detailed View]()
 
 ## 🛠 Tools & Technologies
 * **Data Processing & Analysis:** Excel (`PM_Analytics_Practice_Project.xlsx`)
